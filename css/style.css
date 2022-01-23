@@ -430,7 +430,7 @@ footer {
 
 }
 
-.device-notification--message{width:70%;margin:30px 0 0 0;font-weight:700;text-align:center}
+.device-notification--message{width:90%; height: 70%;margin:70px 70px 120px 10px;font-weight:700; text-align: left;}
 @media (max-width: 1200px) and (min-width: 100px) and (max-height: 730px)
 {.device-notification{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex}}
 @media (max-width: 400px) and (min-width: 1200px) and (max-height: 580px)
